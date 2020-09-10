@@ -6,4 +6,3 @@ if prime_number > 1
 end
 return false
 end
-end
